@@ -1,77 +1,64 @@
-Hamza Khattak
-Software Engineer • Full-Stack Developer • AI & Automation Specialist
- ###About Me###
+# ________________________________________________________________
+#  H A M Z A   K H A T T A K
+#  Software Engineer | Full-Stack Developer | AI & Automation
+# ________________________________________________________________
 
-I’m Hamza Khattak, a Software Engineer with over 8 years of experience building scalable SaaS platforms, high-performance APIs, and AI-powered automation systems.
+## About Me
+I am a Software Engineer with over 8 years of experience building scalable SaaS platforms, high-throughput APIs, and AI-driven automation systems. I specialize in taking products from concept to production with a focus on clean architecture, robustness, and developer-first tooling.
 
-I take products from idea → prototype → production, with a strong focus on:
+My work spans full-stack development, real-time communication systems, print automation pipelines, and AI voice agents integrated with CRMs and dialers at scale.
 
-clean architecture
+I work extensively with Laravel, Node/TypeScript, React, Go, and .NET/Avalonia.
 
-reliability
+---
 
-developer-first tooling
+## What I Do
+- Full-stack engineering (Laravel, Nest.js, React, Go, C#)
+- REST, GraphQL, and WebSocket API design
+- Multi-tenant SaaS platforms and microservice architecture
+- Cross-platform desktop applications (Avalonia)
+- AI voice agents, persona frameworks, CRM/VAPI integrations
+- PDF rendering and print-routing automation (Ghostscript, Aspose)
+- DevOps: Docker, GitHub Actions, CI/CD, TDD
 
-CI/CD + automated testing
+---
 
-I’ve engineered systems for print routing, AI voice agents, CRM automations, and enterprise integrations, using technologies like Laravel, Node/TypeScript, Go, React, and .NET/Avalonia.
+## Current Work
+- Leading engineering for Hlaprint, a cross-platform print-routing SaaS
+- Building high-performance PDF rasterization + print orchestration pipelines
+- Creating SDKs and CLI tools for distributed automation workflows
+- Experimenting with LLM-based workflow and dialing automation
 
- ###What I Do###
+---
 
-Full-stack development — Laravel, Nest.js, React, Go, C#
+## Tech Stack
+Languages:
+PHP, TypeScript, JavaScript, Go, C#, SQL
 
-Multi-tenant SaaS architecture
+Frameworks / Tools:
+Laravel, Nest.js, React, .NET, Avalonia, Redis, Docker, Nginx, GitHub Actions
 
-REST / GraphQL / WebSocket API design
+AI / Automation:
+VAPI, LLM prompt systems, CRM integrations (GHL, HubSpot)
 
-Cross-platform desktop apps (Avalonia)
+PDF / Print Processing:
+Ghostscript, Aspose, rasterization pipelines
 
-AI voice agents, persona prompt frameworks, CRM/VAPI integration
+---
 
-PDF rendering, Ghostscript, and print automation pipelines
+## GitHub Statistics
+(These cards load automatically on your profile.)
 
-DevOps: Docker, GitHub Actions, CI/CD, TDD
+![Hamza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=khttki&show_icons=true&theme=gruvbox)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khttki&layout=compact&theme=gruvbox)
 
- ###Currently Working On###
+---
 
-Scaling Hlaprint, a cross-platform print-routing SaaS
+## Contact
+GitHub: https://github.com/khttki  
+LinkedIn: https://www.linkedin.com/in/hamza-khattak-96219447/  
+Email: khttki@gmail.com
 
-Optimizing PDF → raster pipelines and print driver orchestration
-
-Building reusable SDKs + CLI tooling
-
-Experimenting with AI-driven workflow automation
-
-Developing a Azure OpenAI based Voicebot
-
- ###Tech Stack###
-Languages
-
-PHP • TypeScript • JavaScript • Go • C# • SQL
-
-Frameworks / Tools
-
-Laravel • Nest.js • React • .NET • Avalonia
-Redis • Docker • Nginx • GitHub Actions • WebSockets
-
-AI / Automation
-
-VAPI • LLM Prompt Frameworks • CRM Integrations (GHL, HubSpot)
-
-PDF & Print Processing
-
-Ghostscript • Aspose • Rasterization Pipelines
-
- ###GitHub Stats###
-<p> <img height="170" src="https://github-readme-stats.vercel.app/api?username=khttki&show_icons=true&theme=github_dark" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khttki&layout=compact&theme=github_dark" /> </p>
- ###Connect With Me###
-
- GitHub: https://github.com/khttki
-
- LinkedIn: https://www.linkedin.com/in/hamza-khattak-96219447/
-
- Email: khttki@gmail.com
-
-⭐ If you like my work…
-
-Consider giving a ⭐ to any repo you find useful — it means a lot!
+# ________________________________________________________________
+#  End of Profile
+# ________________________________________________________________
