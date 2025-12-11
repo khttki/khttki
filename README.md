@@ -1,4 +1,4 @@
-# ________________________________________________________________
+
 #  H A M Z A   K H A T T A K
 #  Software Engineer | Full-Stack Developer | AI & Automation
 # ________________________________________________________________
@@ -46,19 +46,8 @@ Ghostscript, Aspose, rasterization pipelines
 
 ---
 
-## GitHub Statistics
-(These cards load automatically on your profile.)
-
-![Hamza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=khttki&show_icons=true&theme=gruvbox)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khttki&layout=compact&theme=gruvbox)
-
----
-
 ## Contact
 GitHub: https://github.com/khttki  
 LinkedIn: https://www.linkedin.com/in/hamza-khattak-96219447/  
 Email: khttki@gmail.com
 
-# ________________________________________________________________
-#  End of Profile
-# ________________________________________________________________
