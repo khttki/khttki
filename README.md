@@ -1,7 +1,7 @@
 
 #  H A M Z A   K H A T T A K
-#  Software Engineer | Full-Stack Developer | AI & Automation
-# ________________________________________________________________
+Software Engineer | Full-Stack Developer | AI & Automation
+
 
 ## About Me
 I am a Software Engineer with over 8 years of experience building scalable SaaS platforms, high-throughput APIs, and AI-driven automation systems. I specialize in taking products from concept to production with a focus on clean architecture, robustness, and developer-first tooling.
